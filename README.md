@@ -18,3 +18,8 @@ I am a young driven software developer interested in gaining experience in any r
 - [Orthello Server](https://github.com/tnichols/orthelloServer/), a standalone NodeJS server for playing Orthello across the internet, uses JavaScript and Python
 - [Obsidian External Import](https://github.com/tnichols217/obsidian-columns), a plugin for Obsidian which allows dynamic importing of markdown files inside of other files.
 - [Obsidian Molecule Renderer](https://github.com/tnichols217/obsidian-molecule-renderer), a plugin for Obsidian which renders an orthographic SMILES representation of a given molecule, originally intended for personal use for my Chemistry notes.
+
+## Transcript
+- AP Cal BC in 9th grade
+- AP Stats in 10th grade
+- AP Physics, AP Music Theory, AP Language in 11th grade
